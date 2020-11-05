@@ -7,7 +7,7 @@
 * Download files on your machine
   * git clone https://github.com/tlgleo/sharing_resources.git
 
-* Go to the gipfa main directory
+* Go to the sharing_resources main directory
   * cd sharing_resources
 
 * Create a virtual environment
